@@ -9,6 +9,9 @@
     <p style="font-size: 16px; color: #555;">
         Manage and attend online events with ease!
     </p>
+    <p style="font-size: 14px; color: #2c3e50; font-weight: bold;">
+        Event Manager: Kairamkonda Chaithanya
+    </p>
 
     <h3>What do you want to do?</h3>
     <ul style="list-style: none; padding: 0;">
@@ -21,4 +24,3 @@
     </ul>
 </body>
 </html>
-
